@@ -1,0 +1,7 @@
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.Properties.Resources.resources
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+U:\DS\Formulario1\Formulario1\bin\Debug\net6.0-windows\Formulario1.exe
+U:\DS\Formulario1\Formulario1\bin\Debug\net6.0-windows\Formulario1.deps.json
+U:\DS\Formulario1\Formulario1\bin\Debug\net6.0-windows\Formulario1.runtimeconfig.json
+U:\DS\Formulario1\Formulario1\bin\Debug\net6.0-windows\Formulario1.dll
+U:\DS\Formulario1\Formulario1\bin\Debug\net6.0-windows\Formulario1.pdb
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.Form1.resources
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.csproj.GenerateResource.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.AssemblyInfoInputs.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.AssemblyInfo.cs
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.csproj.CoreCompileInputs.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.dll
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\refint\Formulario1.dll
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.pdb
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.genruntimeconfig.cache
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\ref\Formulario1.dll
+U:\DS\Formulario1\Formulario1\obj\Debug\net6.0-windows\Formulario1.Properties.Resources.resources
